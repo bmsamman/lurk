@@ -1,0 +1,9 @@
+dhcpd.conf
+pkg/*
+logs/*
+bin/config/*
+*.pid
+*~
+*logs/
+*log
+*.cap

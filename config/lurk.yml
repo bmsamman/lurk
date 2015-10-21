@@ -1,0 +1,8 @@
+aircrack_args: -P -C 30
+#dry_run: true
+log_dir: lurk_logs
+iface: wlan0
+wiface: wlan1
+essid: Evil
+gateway_ip: 192.168.0.100
+respond_to_all: false
